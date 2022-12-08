@@ -3,3 +3,4 @@ def multi (v,u):
 print("the result is")
 print(multi(8,10))  
 print(multi(8,1))  
+x=input("enter v")
